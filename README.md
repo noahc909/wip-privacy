@@ -14,11 +14,6 @@ When you choose the GPS option, WiP requests access to your device
 location solely to center the map on your current position. This data
 never leaves your device and is never transmitted to us or any third party.
 
-## Third-Party Advertising
-
-WiP displays ads served by Google AdMob. AdMob may collect device
-identifiers to serve relevant ads. See Google's privacy policy at
-policies.google.com/privacy.
 
 ## Data Retention
 
